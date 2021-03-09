@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
-
-![](octocat.gif)
+<div align="center">
+  <img alt="octocat" src="octocat.gif" width="200px">
+</div>
 
 <!--
 **AdrianValdes/AdrianValdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
